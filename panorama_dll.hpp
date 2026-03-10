@@ -1,10 +1,9 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-02-24 03:26:42.429346900 UTC
+// 2026-03-10 09:45:06.547419200 UTC
 
 #pragma once
 
 #include <cstddef>
-#include <cstdint>
 
 namespace cs2_dumper {
     namespace schemas {

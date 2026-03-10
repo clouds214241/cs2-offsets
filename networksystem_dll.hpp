@@ -1,15 +1,14 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-02-24 03:26:42.429346900 UTC
+// 2026-03-10 09:45:06.547419200 UTC
 
 #pragma once
 
 #include <cstddef>
-#include <cstdint>
 
 namespace cs2_dumper {
     namespace schemas {
         // Module: networksystem.dll
-        // Class count: 1
+        // Class count: 0
         // Enum count: 1
         namespace networksystem_dll {
             // Alignment: 4
@@ -20,11 +19,6 @@ namespace cs2_dumper {
                 OOPVSUpdates_Default = 0x2,
                 OOPVSUpdates_Count = 0x3
             };
-            // Parent: None
-            // Field count: 1
-            namespace ChangeAccessorFieldPathIndex_t {
-                constexpr std::ptrdiff_t m_Value = 0x0; // int32
-            }
         }
     }
 }
